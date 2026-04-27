@@ -33,4 +33,13 @@ Polymorphism – Method overloading/overriding for flexibility
 🧱 Technologies Used - 
 Java, Java Swing (GUI), Object-Oriented Programming (OOP)
 
+## Result (Screenshot of the output)
+![output1](https://github.com/STIA1123-A232/assignment-2-cgpa4-0/assets/165813301/4e21633b-a278-464e-97c2-872e689c54f6)
+![output2](https://github.com/STIA1123-A232/assignment-2-cgpa4-0/assets/165813301/83cfc6a8-3a7f-488d-ab43-e994bab5248a)
+![output3](https://github.com/STIA1123-A232/assignment-2-cgpa4-0/assets/165813301/508b167e-d5b3-430d-8915-0669027c3b23)
+![output4](https://github.com/STIA1123-A232/assignment-2-cgpa4-0/assets/165813301/7013a275-0e8d-4317-ac03-9d99509c2a9b)
+## UML Diagram
+![UML asgm2](https://github.com/STIA1123-A232/assignment-2-cgpa4-0/assets/165813301/176a4faa-ca94-4ea1-a0c3-bbf9c84ab7c0)
+## Youtube Presentation
+[https://youtu.be/ozUFK0YeH40](https://youtu.be/w-mdSMOOkJE)
 
